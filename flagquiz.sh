@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 cd ~/Applications;
 echo "Downloading app...";
 curl https://the-okapi.github.io/sh/Flag-Quiz.zip -o fquiz.zip;
