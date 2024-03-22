@@ -2,10 +2,14 @@
 
 ## Installation
 
-Flag Quiz is only compatible on macOS Sonoma.
+Flag Quiz is currently only compatible on macOS Sonoma and Windows 11.
 
-To install, run command `curl https://the-okapi.github.io/sh/flagquiz.sh | sh` in the terminal app
+To install on macOS, run command `curl https://the-okapi.github.io/sh/flagquiz.sh | sh` in the terminal app.
+
+To install on Windows, download the raw version of the `Flag-Quiz-Installer.exe` file and run it.
 
 ## Uninstallation
 
-To uninstall, run command `curl https://the-okapi.github.io/sh/uifq.sh | sh` in the terminal app
+To uninstall on macOS, run command `curl https://the-okapi.github.io/sh/uifq.sh | sh` in the terminal app.
+
+There is currently no uninstallation software for Windows.
