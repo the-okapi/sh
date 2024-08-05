@@ -1,6 +1,5 @@
 #!/bin/sh
-mkdir ~/Applications
-cd ~/Applications;
+cd /Applications;
 echo "Downloading app...";
 curl https://the-okapi.github.io/sh/Flag-Quiz.zip -o fquiz.zip;
 echo "Unzipping app...";
